@@ -1,0 +1,5 @@
+/home/alekse/project/mono/neronweb/neronweb/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alekse/project/mono/neronweb/neronweb/bin/Debug/neronweb.exe.mdb
+/home/alekse/project/mono/neronweb/neronweb/bin/Debug/neronweb.exe
+/home/alekse/project/mono/neronweb/neronweb/obj/x86/Debug/neronweb.exe
+/home/alekse/project/mono/neronweb/neronweb/obj/x86/Debug/neronweb.exe.mdb
