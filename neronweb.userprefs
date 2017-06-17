@@ -1,1 +1,14 @@
-﻿<Properties StartupItem="neronweb/neronweb.csproj" />
+﻿<Properties StartupItem="neronweb/neronweb.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="neronweb/Program.cs">
+    <Files>
+      <File FileName="neronweb/Program.cs" Line="132" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="neronweb/Program.cs" line="156" offsetX="360" offsetY="2480" expression="gError" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
